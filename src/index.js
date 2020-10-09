@@ -1,4 +1,4 @@
-export * from './index.final'
+export * from './index.exercise'
 
 // export * from './index.exercise'
 
